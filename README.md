@@ -4,4 +4,5 @@ Os bits de paridade são informações adicionais associadas a um sinal digital,
 
 Esse bit adicional pode atuar de duas formas: como bit de paridade par ou ímpar. O conceito por trás dessas duas formas é simples. Na paridade par, o bit adicional é ajustado para garantir que o número total de "1's" seja par. Já na paridade ímpar, o bit adicional é ajustado para que o número total de "1's" seja ímpar. Uma visão ilustrativa desse conceito está presente logo abaixo:
 
-![Parity_Ex](https://github.com/user-attachments/assets/6e95822d-6be1-4333-848d-81dd549f314f)
+
+![Parity_ex](https://github.com/user-attachments/assets/ee5b3092-142f-478e-a01f-586e636a3bc1)
