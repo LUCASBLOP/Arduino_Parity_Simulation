@@ -6,3 +6,7 @@ Esse bit adicional pode atuar de duas formas: como bit de paridade par ou ímpar
 
 
 ![Parity_ex](https://github.com/user-attachments/assets/ee5b3092-142f-478e-a01f-586e636a3bc1)
+
+## Simulação no Arduino Uno R3:
+![Design sem nome](https://github.com/user-attachments/assets/f1cb035f-051b-47b6-9f08-6536b0600b45)
+
