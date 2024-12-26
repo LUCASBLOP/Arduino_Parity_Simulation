@@ -10,7 +10,7 @@ Esse bit adicional pode atuar de duas formas: como bit de paridade par ou ímpar
 
 ## Simulação no Arduino Uno R3:
 <div align="justify">
-Esse repositório foi criado com o objetivo de simular a detecção de erros pelo método dos bits de paridade. A simulação foi executada no web site tinkercad e os materiais utilizados foram um Arduino Uno R3 e um Display LCD 16x2. Para a comunicação entre o microcontrolador Arduino e o Display foi implementado o protocolo I2C. Na simulação, uma menssagem é enviada para o display e em seguida é contado o número de bits com nível lógico "1" presente na menssagem. Ao final da simulação, um bit de paridade é exposto no display, assim como a contagem de "1's".
+Esse repositório foi criado com o objetivo de simular a detecção de erros pelo método dos bits de paridade. A simulação foi executada no web site tinkercad e os materiais utilizados foram um Arduino Uno R3 e um Display LCD 16x2. Para a comunicação entre o microcontrolador Arduino e o Display foi implementado o protocolo I2C. Na simulação, uma menssagem é enviada para o display e em seguida é contado o número de bits com nível lógico "1" presente na menssagem. Ao final da simulação, um bit de paridade é exposto no display, assim como a contagem de "1's". A simulação foi feita com a menssagem " Hello World" e pode ser observada por meio do GIF abaixo:
 </div>
 
 ![Simul_Correta](https://github.com/user-attachments/assets/dc27f3cb-e318-4e97-8924-b5db82832d0f)
